@@ -2,7 +2,8 @@ py-toposort
 ===========
 
 This Python 2.5 module computes a topological sorting (http://en.wikipedia.org/wiki/Topological_sorting)
-of a directed graph.
+of a directed graph. A common use case of this operation is dependency analysis and resolution.
+
 
 function **toposort** (edges[,extra_nodes][,non_loop_cycles_are_errors][,loops_are_errors][,loop_report][,cycle_report])
 
