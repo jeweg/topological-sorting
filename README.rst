@@ -1,5 +1,5 @@
-py-toposort
-===========
+py-topological-sorting
+======================
 
 This Python 2.5 module computes a topological sorting (http://en.wikipedia.org/wiki/Topological_sorting)
 of a directed graph. A common use case of this operation is dependency analysis and resolution.
